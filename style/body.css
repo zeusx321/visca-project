@@ -1,0 +1,23 @@
+:root{
+    --black: black;
+    --white: white;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    color: var(--white);
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    font-family: "Raleway", sans-serif;
+    position: relative;
+    background-color: var(--black); 
+    padding-bottom: 62px;
+}
+
